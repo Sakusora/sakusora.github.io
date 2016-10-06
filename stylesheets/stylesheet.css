@@ -7,10 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 0.9em;
   line-height: 1.5;
-  color: #606c71; }
+  color: #fff; }
 
 a {
-  color: #222;
+  color: #FFFFFFE6;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -219,7 +219,7 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #dadada80; }
 
 .site-footer-owner {
   display: block;
@@ -227,7 +227,7 @@ a {
   text-align: center;}
 
 .site-footer-credits {
-  color: #819198; }
+  color: #F9F9F9; }
 
 @media screen and (min-width: 64em) {
   .site-footer {
@@ -240,3 +240,10 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+html {
+      background: url(http://img3.a0bi.com/upload/ttq/20141103/1415014417095.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+		}
