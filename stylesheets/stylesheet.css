@@ -7,10 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 0.9em;
   line-height: 1.5;
-  color: #fff; }
+  color: #606c71; }
 
 a {
-  color: #FFF;
+  color: #222;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -219,7 +219,7 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #FFF; }
+  border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
   display: block;
@@ -227,7 +227,7 @@ a {
   text-align: center;}
 
 .site-footer-credits {
-  color: #F9F9F9; }
+  color: #819198; }
 
 @media screen and (min-width: 64em) {
   .site-footer {
@@ -240,11 +240,3 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
-html {
-      background: url(http://oghmhjnym.bkt.clouddn.com/skystars.jpg) no-repeat center center fixed;
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-		}
-
